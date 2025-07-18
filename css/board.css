@@ -43,7 +43,7 @@
     padding: 2px 12px;
 
     border-radius: 8px;
-    border: 1px solid #aca0eb;
+    border: 1px solid rgb(115, 115, 255);
     background-color: transparent;
 
     cursor: pointer;
@@ -226,7 +226,7 @@
     letter-spacing: -0.01em;
     cursor: pointer;
 
-    background-color: #aca0eb;
+    background-color: rgba(155,155, 255);
     border: none;
     border-radius: 16px;
 }
