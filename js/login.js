@@ -66,7 +66,7 @@ const observeSignupData = () => {
         password &&
         password.length >= MAX_PASSWORD_LENGTH
     );
-    button.style.backgroundColor = button.disabled ? '#ACA0EB' : '#7F6AEE';
+    button.style.backgroundColor = button.disabled ? 'rgba(160, 160, 255, 1)' : 'rgba(0, 0, 255, 1)';
 };
 
 const eventSet = () => {
